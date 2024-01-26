@@ -1,0 +1,5 @@
+Quantidade de números privados válidos: 0
+Lista de números privados válidos: 
+Quantidade de grupos válidos: 0
+Lista de grupos válidos: 
+Total de números processados: 30
